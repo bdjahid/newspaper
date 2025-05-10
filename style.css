@@ -1,0 +1,12 @@
+.image {
+  width: 30px;
+}
+.search {
+  position: absolute;
+  right: 60px;
+}
+.bars {
+  position: relative;
+  right: 20px;
+  margin-top: 10px;
+}
